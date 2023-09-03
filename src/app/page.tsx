@@ -4,7 +4,7 @@ import styles from './page.module.css'
 export default function Home() {
   return (
     <main className={styles.main}>
-        <div>My Next App1</div>
+        <div>My Next App2</div>
     </main>
   )
 }
